@@ -5,7 +5,7 @@
 
 ### Hi there  🌅
 - 👋 Hi, I’m 曹龙.
-- 👀 I’m interested in Node.js and React and electron.
+- 👀 I’m interested in Node.js and React and Electron.
 - 😄 Welcome to browse and communicate.
 <!--
 **LongCao928/LongCao928** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
