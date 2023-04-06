@@ -1,5 +1,7 @@
-### Hi there 👋
-
+### Hi there  🌅
+- 👋 Hi, I’m 曹龙.
+- 📫 Contact me by email at 1414851268@qq.com.
+- 😄 Welcome to browse and communicate.
 <!--
 **LongCao928/LongCao928** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
